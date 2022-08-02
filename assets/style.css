@@ -68,7 +68,7 @@ h2 {
     font-family: sans-serif;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: right;
     margin-bottom: 20px;
   }
   .home-1-heading {
@@ -135,6 +135,12 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+  }
+  .background-box{
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    background-position: right;
+    margin-right: 20px;
   }
 
 
